@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PraAssesment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nim">nim</string>
+    <string name="nama">nama</string>
+    <string name="_6706184084">6706184084</string>
+    <string name="rendi_winurdani">Rendi Winurdani</string>
+    <string name="d3if_4203">D3IF-4203</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="luaspp">Luas =</string>
+    <string name="kelilingpp">Keliling =</string>
+    <string name="share">Share</string>
+    <string name="luas">Luas =</string>
+    <string name="keliling">Keliling =</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="namesegitiga">Name</string>
+    <string name="textviewsegitiga">TextView</string>
+    <string name="textviewpp">TextView</string>
+    <string name="shares">Share</string>
+    <string name="luassegitiga">Luas =</string>
+    <string name="kelilingsegitiga">Keliling =</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="alas">Alas</string>
+</resources>
